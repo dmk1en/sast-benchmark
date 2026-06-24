@@ -41,8 +41,8 @@ Per-entry triage fields added:
 
 ## Performance Metrics
 
-* **Precision:** $rac{40}{49} = 81.6\%$
-* **Recall:** $rac{40}{51} = 78.4\%$ *(was 80.0% — final flip added 1 FN)*
-* **F1-Score:** $80.0\%$
-* **Accuracy:** $rac{64}{84} = 76.2\%$
-* **Mixed Cases:** 7 entries *(excluded from primary statistical metrics)*
+* **Precision:** = 40/49 = 81.6
+* **Recall:** = 40/51 = 78.4%
+* **F1-Score:** = 80.0%
+* **Accuracy:** = 64/84 = 76.2%
+* **Mixed Cases:** = 7 (depend on each scenario)
